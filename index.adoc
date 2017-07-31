@@ -1,0 +1,8 @@
+= Introduction
+This is an introduction
+
+[source,sql]
+----
+SELECT 1
+  FROM pg_class
+----
